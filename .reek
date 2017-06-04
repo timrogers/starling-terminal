@@ -1,0 +1,3 @@
+TooManyStatements:
+  exclude:
+    - "StarlingTerminal::Statement#generate"

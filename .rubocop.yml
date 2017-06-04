@@ -1,0 +1,14 @@
+AllCops:
+  DisplayCopNames: true
+  TargetRubyVersion: 2.4
+
+Metrics/LineLength:
+  Max: 90
+
+Metrics/BlockLength:
+  Exclude:
+    - spec/**/*
+
+# For now, we're supporting Ruby 2.2, where the predicate methods are not available
+Style/NumericPredicate:
+  Enabled: false
