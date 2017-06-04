@@ -29,6 +29,9 @@ View your Starling Bank statement from your terminal:
 starling
 ```
 
+Full documentation is available
+[here](http://www.rubydoc.info/github/timrogers/starling-terminal/master).
+
 ## Tests
 
 The library must pass code checks by RSpec, Rubocop and Reek:
