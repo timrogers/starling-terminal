@@ -33,6 +33,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rspec_junit_formatter', '~> 0.2.3'
   spec.add_development_dependency 'reek', '~> 4.7.0'
   spec.add_development_dependency 'rspec-snapshot', '~> 0.1.1'
-  spec.add_development_dependency 'webmock', '~> 3.0.1'
+  spec.add_development_dependency 'webmock', '~> 3.3.0'
   spec.add_development_dependency 'yard', '~> 0.8.7.6'
 end
