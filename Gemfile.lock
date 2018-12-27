@@ -43,7 +43,7 @@ GEM
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
       slop (~> 3.4)
-    public_suffix (3.0.2)
+    public_suffix (3.0.3)
     rainbow (2.2.2)
       rake
     rake (12.0.0)
@@ -90,7 +90,7 @@ GEM
       coercible (~> 1.0)
       descendants_tracker (~> 0.0, >= 0.0.3)
       equalizer (~> 0.0, >= 0.0.9)
-    webmock (3.4.1)
+    webmock (3.5.1)
       addressable (>= 2.3.6)
       crack (>= 0.3.2)
       hashdiff
@@ -108,7 +108,7 @@ DEPENDENCIES
   rspec_junit_formatter (~> 0.2.3)
   rubocop (~> 0.49.0)
   starling_terminal!
-  webmock (~> 3.4.1)
+  webmock (~> 3.5.1)
   yard (~> 0.9.14)
 
 BUNDLED WITH
