@@ -29,7 +29,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'bundler', '~> 1.15'
   spec.add_development_dependency 'rspec', '~> 3.0'
   spec.add_development_dependency 'rubocop', '~> 0.49.0'
-  spec.add_development_dependency 'pry', '~> 0.10.4'
+  spec.add_development_dependency 'pry', '~> 0.13.1'
   spec.add_development_dependency 'rspec_junit_formatter', '~> 0.2.3'
   spec.add_development_dependency 'reek', '~> 4.7.0'
   spec.add_development_dependency 'rspec-snapshot', '~> 0.1.1'
